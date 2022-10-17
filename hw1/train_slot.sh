@@ -1,0 +1,1 @@
+python3 src/train_slot.py
